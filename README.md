@@ -1,0 +1,1 @@
+This repository has the content for my personal website, rsmith.cloud, as well as the Dockerfile to use the static site generator Hugo to build the content, and then a simple Alpine image to serve it. It also includes a Github actions workflow to run the docker build and add the result to the Github container registry.
