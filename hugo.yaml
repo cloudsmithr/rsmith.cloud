@@ -1,0 +1,11 @@
+baseURL: https://rsmith.cloud/
+languageCode: en-us
+title: Ryan Chermont-Smith's Website
+theme: "book"
+
+params:
+  BookTheme: dark
+  BookMenuBundle: true
+  BookSection: docs
+  BookExpand: false
+  BookDateFormat: "January 2, 2006"
